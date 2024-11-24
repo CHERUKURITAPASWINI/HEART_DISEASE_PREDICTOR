@@ -31,4 +31,4 @@ Install these dependencies using pip:
 5) Resampling: Apply SMOTE, ADASYN, and RandomUnderSampler to address class imbalance.
 6) Pipeline and Accuracy Measurement: Build classifiers (Logistic Regression, Decision Tree, KNN, SVM) with resampling, tune hyperparameters with GridSearchCV, and measure accuracy.
 7) Print Results: View accuracy scores and classification reports in the Jupyter Notebook.
-8) Sample Output: Refer to Output.pdf for execution results.
+
